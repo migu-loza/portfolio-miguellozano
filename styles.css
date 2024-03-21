@@ -277,7 +277,6 @@ nav {
 /* *** PROJECTS SECTION *** */
 .project-gallery {
     background-color: #000000;
-    border-radius: 20px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
